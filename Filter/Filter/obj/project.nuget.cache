@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sHD1PHt4QHjCE8oIqlU02YlNzY4PRByVPUwvCPawMpbePhaUNP4xfa4IoWr+8M+y8sq3tauHv+m7iNS7TjLzYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikola\\Desktop\\Filter\\Filter\\Filter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikola\\.nuget\\packages\\mqttnet\\4.3.6.1152\\mqttnet.4.3.6.1152.nupkg.sha512",
+    "C:\\Users\\nikola\\.nuget\\packages\\nats.client\\1.1.5\\nats.client.1.1.5.nupkg.sha512",
+    "C:\\Users\\nikola\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
