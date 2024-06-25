@@ -1,2 +1,3 @@
 nats-py
-influxdb-client[ciso]
+influxdb-client
+influxdb-client[async]
